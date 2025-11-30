@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1760963057 source:d:\iti professional scholarship nine month\object oriented programming\day2\magic box\main.cpp
+	<iostream>
+	<windows.h>
+
+1760988715 source:d:\iti professional scholarship nine month\object oriented programming\day3\magic box\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<cmath>
+
