@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1761561785 source:d:\iti professional scholarship nine month\object oriented programming\day9\new_menu2\main.cpp
+	<iostream>
+	<limits>
+	<conio.h>
+	<windows.h>
+

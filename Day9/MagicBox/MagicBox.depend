@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761565883 source:d:\iti professional scholarship nine month\object oriented programming\day9\magicbox\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+
